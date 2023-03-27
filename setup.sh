@@ -8,6 +8,6 @@ sudo apt install python3 python3-pip vim -y
 sudo apt install ghidra -y
 
 # crypto
-sudo pip install PyCryptodome Z3
+pip install PyCryptodome Z3
 
 sudo apt upgrade
